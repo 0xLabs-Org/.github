@@ -25,33 +25,18 @@ Whether it's simplifying Web3 onboarding or enhancing user experiences through A
 | Product       | Description                                                                     |
 |---------------|---------------------------------------------------------------------------------|
 | **DeHarvest** | An agriculture-based blockchain ecosystem where users invest in a native token. |
+| **PilotMail** | An AI Powered Custom Mail Service from LLM using MCP Servers.                   |
 
 
 
 
-## 👥 Team
-
-- **Developer**: Sameer  
-  *Full Stack | Blockchain | AI*
-  
-- **Design & Project Management**: Muskan  
-  *UI/UX | Figma | Jira | Frontend*
-  
-- **Developer**: Dharma  
-  *AI | ML | Python*
-  
-- **Developer**: Sohail  
-  *DevOps | GenAI*
-  
-- **Developer**: Junaid  
-  *AI | ML | Python*
 
 
 ## 📣 Connect With Us
 
-- GitHub: [https://github.com/0xLabs-org](https://github.com/0xLabs-org)
-- LinkedIn: [linkedin/0xLabs](https://www.linkedin.com/in/20-sameershaik/)
-- Portfolio: [soon]
+- [GitHub](https://github.com/0xLabs-org)
+- [LinkedIn](https://www.linkedin.com/in/20-sameershaik/)
+- [Website](https://www.0xlabs-org.xyz/)
 - For collaboration, ideas, or networking — feel free to reach out!
 
 ---
