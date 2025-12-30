@@ -1,44 +1,59 @@
 # 0xLabs
 
-🧠 *Building the future of Web3 and AI, one product at a time.*
-
-## 🚀 About Us
-
-**0xLabs** is an independent innovation lab and micro-startup studio founded to create powerful, user-centric SaaS solutions that leverage the cutting-edge capabilities of **Blockchain** and **Artificial Intelligence**.
-
-We are a team of builders, designers, and dreamers on a mission to build smart, secure, and scalable digital tools — from decentralized finance (DeFi) and secure data infrastructures to AI-powered assistants and productivity SaaS tools.
-
-Whether it's simplifying Web3 onboarding or enhancing user experiences through AI, we are here to make meaningful products that people love.
-
-## 🛠️ Focus Areas
-
-- 🧠 **AI-Powered SaaS Applications**  
-- 🔐 **Decentralized Applications (dApps)**  
-- 🧬 **Blockchain Infrastructure & Wallet Tools**  
-- 📊 **Analytics Platforms using AI & Big Data**  
-- ⚙️ **Developer Tools for Web3 & AI builders**  
+**Building intelligent Web3 and AI products that scale.**
 
 ---
 
-## 📦 Sample Products
+## About 0xLabs
 
-| Product       | Description                                                                     |
-|---------------|---------------------------------------------------------------------------------|
-| **DeHarvest** | An agriculture-based blockchain ecosystem where users invest in a native token. |
-| **PilotMail** | An AI Powered Custom Mail Service from LLM using MCP Servers.                   |
+**0xLabs** is an independent innovation lab and micro–startup studio focused on building production-grade SaaS platforms powered by **Artificial Intelligence** and **Blockchain infrastructure**.
 
+We design, build, and scale digital products that solve real operational problems for developers, founders, and modern businesses. Our work is commercial, scalable, and security-first.
 
+Our mission is simple:
 
-
-
-
-## 📣 Connect With Us
-
-- [GitHub](https://github.com/0xLabs-org)
-- [LinkedIn](https://www.linkedin.com/in/20-sameershaik/)
-- [Website](https://www.0xlabs-org.xyz/)
-- For collaboration, ideas, or networking — feel free to reach out!
+**Build infrastructure-grade products that people rely on every day.**
 
 ---
 
-> *We're always looking for builders, creators, and collaborators. If you're excited by AI or Web3, come join us on the frontier.*
+## Core Focus Areas
+
+- AI-Powered SaaS Platforms  
+- Web3 Infrastructure & Wallet Systems  
+- Decentralized Applications (dApps)  
+- Data, Analytics & Automation Platforms  
+- Developer Tooling for AI & Blockchain Builders  
+
+---
+
+## Flagship Products
+
+| Product | Description |
+|--------|-------------|
+| **Qluely.in** | AI Meeting Assistant for developers and sales teams. Real-time meeting intelligence, automatic summaries, action tracking, and contextual assistance designed for technical and revenue teams. |
+
+---
+
+## What We Are Building Now
+
+**Qluely.in** is currently our primary product focus.  
+It is a high-performance AI meeting assistant designed to operate in live business environments, built with strict privacy, latency, and enterprise-grade reliability requirements.
+
+Target users:
+
+- Software development teams  
+- Sales organizations  
+- Technical founders and consultants  
+
+---
+
+## Connect
+
+- GitHub: https://github.com/0xLabs-org  
+- LinkedIn: https://www.linkedin.com/in/20-sameershaik/  
+- Website: https://www.0xlabs-org.xyz  
+
+---
+
+**0xLabs builds infrastructure, not experiments.**  
+If you are serious about building real products in AI or Web3, this is where you belong.
